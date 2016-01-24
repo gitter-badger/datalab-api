@@ -1,4 +1,6 @@
 # datalab-api
+
+[![Join the chat at https://gitter.im/nicolasduval/datalab-api](https://badges.gitter.im/nicolasduval/datalab-api.svg)](https://gitter.im/nicolasduval/datalab-api?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Post Production Management REST API.
  
 [![Build Status](https://travis-ci.org/nicolasduval/datalab-api.svg?branch=master)](https://travis-ci.org/nicolasduval/datalab-api)
